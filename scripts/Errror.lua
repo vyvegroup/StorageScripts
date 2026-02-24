@@ -1,0 +1,1 @@
+AutomaticCanvasSize is not a vaild member of "Enum"

@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/etfbscript-server/EscapeTsunamiForBrainrots/refs/heads/main/Loader.lua"))()
